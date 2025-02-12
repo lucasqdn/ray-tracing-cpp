@@ -21,3 +21,5 @@ void write_color(std::ostream &out, const color &pixel_color) {
     // Output pixel color components
     out << rbyte << ' ' << gbyte << ' ' << bbyte << '\n';
 }
+
+#endif
