@@ -1,2 +1,2 @@
 # ray-tracing-cpp
-Ray Tracing Implementation using CPP
+A recreation of Ray Tracing in One Weekend using C++
